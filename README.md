@@ -386,5 +386,3 @@ Dynamic Programming:
 - Practice explaining trade-offs in plain language.
 
 ---
-
-Update this document as you solve more problems. Add your own notes under each pattern with mistakes, edge cases, and final optimized approach.
